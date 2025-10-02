@@ -12,7 +12,7 @@ This repo contains the source code for the demo from [this article.](https://med
 
 * Open main.py.
 
-Press F5 to run the game.
+* Press F5 to run the game.
 
 That’s it — no extra setup required.
 
