@@ -4,14 +4,15 @@ This repo contains the source code for the demo from [this article.](https://med
 
 ## How to Run (with VS Code)
 
-* Open this project in Visual Studio Code, and make sure you have Python and raylibpy installed.
+* Open the project in Visual Studio Code.
 
-* Make sure you have the Python extension
- installed.
+* Install Python and raylibpy if you haven’t already.
 
-* Open main.py
+* Install the Python extension for VS Code.
 
-* Press F5 to run the game.
+* Open main.py.
+
+Press F5 to run the game.
 
 That’s it — no extra setup required.
 
