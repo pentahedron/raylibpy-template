@@ -10,9 +10,7 @@ This repo contains the source code for the demo from [this article.](https://med
 
 * Install the Python extension for VS Code.
 
-* Open main.py.
-
-* Press F5 to run the game.
+* Open main.py, and then press F5 to run the game.
 
 That’s it — no extra setup required.
 
